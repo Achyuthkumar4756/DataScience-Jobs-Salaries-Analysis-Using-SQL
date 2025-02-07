@@ -1,4 +1,4 @@
-# SQL Project: Data Science Job Analysis
+# SQL Project: Data Science Job Salaries  Analysis
 
 ## Overview
 This project uses SQL to analyze various aspects of data science job salaries and trends. The analysis addresses multiple real-world business scenarios by querying a database of job salary data. Each query is tailored to provide actionable insights into job markets, salary trends, and organizational needs.
